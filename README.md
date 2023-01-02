@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @PedroHGCabral
 - 🌱 Estou atualmente aprendendo C# e cursando Ciencias da Computação
-- 📫 Contato: pedrohgc16@outlook.com
+- 📫 Contato: pedrohgc16.dev@outlook.com
 
 <!---
 PedroHGCabral/PedroHGCabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
