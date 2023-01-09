@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @PedroHGCabral
+- 👋 Olá, eu sou Pedro Cabral
 - 🌱 Sou desenvolvedor na linguagem C# e curso Ciencias da Computação
 - 📫 Contato: pedrohgc16.dev@outlook.com
 
