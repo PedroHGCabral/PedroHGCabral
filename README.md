@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @PedroHGCabral
-- 🌱 Estou atualmente aprendendo C# e cursando Ciencias da Computação
+- 🌱 Sou desenvolvedor na linguagem C# e curso Ciencias da Computação
 - 📫 Contato: pedrohgc16.dev@outlook.com
 
 <!---
